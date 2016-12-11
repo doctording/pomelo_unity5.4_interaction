@@ -1,0 +1,17 @@
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\LitJson.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\SimpleJson.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_obj\Debug\unity_client.csprojResolveAssemblyReference.cache
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\yy\Desktop\unity_client\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
